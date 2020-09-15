@@ -15,7 +15,7 @@ inside them. Specifically, you are going to be adding 2 instance methods to a
 
 Open this lab clicking the "Fork" button, cloning, and running your tests with `learn test`.
 
-### 1. Define `Dog` in `lib/dog.rb`
+<!-- ### 1. Define `Dog` in `lib/dog.rb`
 
 Open `lib/dog.rb` and add a class definition for a `Dog` class.
 
@@ -26,21 +26,21 @@ Add an instance method `#bark` to your `Dog` class in `lib/dog.rb` that will put
 ### 3. Define `#sit` in `Dog`
 
 Add an instance method `#sit` to your `Dog` class in `lib/dog.rb` that will puts
-`"The Dog is sitting"`.
-
+`"The Dog is sitting"`. -->
+<!-- 
 ### 4. Define a `Person` in `lib/person.rb`
 
-Open `lib/person.rb` and add a class definition for a `Person` class.
+Open `lib/person.rb` and add a class definition for a `Person` class. -->
 
-### 5. Define `#talk` in `Person`
+<!-- ### 5. Define `#talk` in `Person`
 
 Add an instance method `#talk` to your `Person` class in `lib/person.rb` that
-will puts `"Hello World!"`
+will puts `"Hello World!"` -->
 
-### 6. Define `#walk` in `Person`
+<!-- ### 6. Define `#walk` in `Person`
 
 Add an instance method `#walk` to your `Person` class in `lib/person.rb` that
-will puts `"The Person is walking"`.
+will puts `"The Person is walking"`. -->
 
 When you're done, submit the lab with `learn submit`.
 
